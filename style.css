@@ -60,7 +60,8 @@ p {
 .experience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left;    
+    background-position: left;
+       
 }
 #full-stack {
     border-left: 7px solid;
